@@ -9,5 +9,7 @@
 > [Práctica 4](https://github.com/erickgt00/PD_MCD/blob/main/Practica4.ipynb)
 >
 > [Práctica 5](https://github.com/erickgt00/PD_MCD/blob/main/Practica5.ipynb)
+>
+> [Práctica 6]() 
 > 
 > [Tarea 1](https://github.com/erickgt00/PD_MCD/blob/main/PREDICCI%C3%93N%20DE%20APROBACI%C3%93N%20DE%20CR%C3%89DITO.png)
