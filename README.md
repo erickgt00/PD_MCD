@@ -14,4 +14,7 @@
 >
 > [Practica 7](https://github.com/erickgt00/PD_MCD/blob/main/Practica7.ipynb)
 > 
-> [Tarea 1](https://github.com/erickgt00/PD_MCD/blob/main/PREDICCI%C3%93N%20DE%20APROBACI%C3%93N%20DE%20CR%C3%89DITO.png)
+> [Tarea 1](https://github.com/erickgt00/PD_MCD/blob/main/PREDICCI%C3%93N%20DE%20APROBACI%C3%93N%20DE%20CR%C3%89DITO%20(1).png)
+>
+> [Tarea 2](https://github.com/erickgt00/PD_MCD/blob/main/PREDICCI%C3%93N%20DE%20APROBACI%C3%93N%20DE%20CR%C3%89DITO.png)
+ 
